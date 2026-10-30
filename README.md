@@ -1,4 +1,4 @@
-# SU_-Sistema_de_Gestao
+# SU_Sistema_de_Gestao
 Este projeto tem como objetivo desenvolver uma aplicação de gestão voltada para pequenos negócios do segmento alimentício, com foco na organização de produtos, controle de custos e acompanhamento financeiro.
 A proposta é construir uma ferramenta que centralize informações importantes da operação, permitindo que o empreendedor tenha maior controle sobre seus produtos, preços e resultados.
 
